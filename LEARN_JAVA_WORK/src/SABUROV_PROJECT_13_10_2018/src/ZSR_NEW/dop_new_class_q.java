@@ -5,6 +5,8 @@ package ZSR_NEW;
  */
 
 public class dop_new_class_q {
+    public void math_ficha(){
 
+    }
 }
 
