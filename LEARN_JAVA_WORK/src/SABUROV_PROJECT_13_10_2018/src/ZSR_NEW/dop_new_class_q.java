@@ -12,5 +12,9 @@ public class dop_new_class_q {
     public void math_ficha2_super_new(){
 
     }
+
+    public void math_ficha2_summer(){
+
+    }
 }
 
