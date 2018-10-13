@@ -5,6 +5,8 @@ package ZSR;
  */
 
 public class and_four_dop_class {
+    public static void main(String[] args) {
 
+    }
 }
 
