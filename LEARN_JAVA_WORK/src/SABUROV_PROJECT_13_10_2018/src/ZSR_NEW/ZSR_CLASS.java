@@ -6,7 +6,7 @@ package ZSR_NEW;
 
 public class ZSR_CLASS {
     public static void main(String[] args) {
-        
+
     }
 }
 
