@@ -5,6 +5,10 @@ package ZSR_NEW;
  */
 
 public class dop_new_class_q {
+    public void math_ficha2_check(){
+
+    }
+
     public void math_ficha2_super_new(){
 
     }
@@ -12,5 +16,7 @@ public class dop_new_class_q {
     public void math_ficha2_summer(){
 
     }
+
+
 }
 
