@@ -43,12 +43,7 @@ public class StudentOrderValidator {
         crv1.hostName = "Host1";
         crv1.login = "login1";
         crv1.password = "password1";
-        CityRegisterValidator crv2 = new CityRegisterValidator();
-        crv2.hostName = "Host2";
-        crv2.login = "login2";
-        crv2.password = "password2";
         AnswerCityRegister ans1 = crv1.checkCityRegister(so);
-        AnswerCityRegister ans2 = crv2.checkCityRegister(so);
         return ans1;
     }
 
