@@ -5,7 +5,7 @@ package SABUROV_PROJECT_13_10_2018.src;
  */
 
 public class ChildrenValidator {
-    static AnswerChildren checkChildren(StudentOrder so){
+    AnswerChildren checkChildren(StudentOrder so){
         System.out.println("Check children запущен");
         return new AnswerChildren();
     }

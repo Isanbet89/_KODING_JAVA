@@ -5,7 +5,7 @@ package SABUROV_PROJECT_13_10_2018.src;
  */
 
 public class WeddingValidator {
-    static AnswerWedding checkWedding(StudentOrder so){
+    AnswerWedding checkWedding(StudentOrder so){
         System.out.println("Check wedding запущен");
         return new AnswerWedding();
     }

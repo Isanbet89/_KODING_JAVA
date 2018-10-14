@@ -5,8 +5,9 @@ package SABUROV_PROJECT_13_10_2018.src;
  */
 
 public class CityRegisterValidator {
-    String hostName;
-    String login;
+    public String hostName;
+    protected int port;
+    private String login;
     String password;
 
     AnswerCityRegister checkCityRegister(StudentOrder so){
