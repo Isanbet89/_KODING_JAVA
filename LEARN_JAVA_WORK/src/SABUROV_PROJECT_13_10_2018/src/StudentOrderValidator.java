@@ -10,28 +10,45 @@ public class StudentOrderValidator {
     }
 
     static void checkAll(){
-        checkCityRegister();
-        checkWedding();
-        checkChildren();
-        checkStudent();
+        StudentOrder so = readStudentOrder();
+
+        AnswerCityRegister cityAnswer = checkCityRegister(so);
+        AnswerWedding wedAnswer = checkWedding(so);
+        AnswerChildren childrenAnswer = checkChildren(so);
+        AnswerStudent studentAnswer = checkStudent(so);
+
+        sendMail(so);
     }
 
-    static void checkCityRegister(){
+    static StudentOrder readStudentOrder(){
+        StudentOrder so = new StudentOrder(); //Любой текст как комментарий
+        return so;
+    }
+
+    static AnswerCityRegister checkCityRegister(StudentOrder so){
         System.out.println("City Register is runnig");
+        AnswerCityRegister ans = new AnswerCityRegister();
+        return ans;
     }
 
-    static void checkWedding(){
+    static AnswerWedding checkWedding(StudentOrder so){
         System.out.println("Check wedding запущен");
+        return new AnswerWedding();
     }
 
-    static void checkChildren(){
+    static AnswerChildren checkChildren(StudentOrder so){
         System.out.println("Check children запущен");
+        return new AnswerChildren();
     }
 
-    static void checkStudent(){
+    static AnswerStudent checkStudent(StudentOrder so){
         System.out.println("Студенты проверяются");
+        return new AnswerStudent();
     }
 
+    static void sendMail(StudentOrder so){
+
+    }
 
 }
 
