@@ -10,14 +10,28 @@ public class StudentOrderValidator {
     }
 
     static void checkAll(){
-        StudentOrder so = readStudentOrder();
 
-        AnswerCityRegister cityAnswer = checkCityRegister(so);
-        AnswerWedding wedAnswer = checkWedding(so);
-        AnswerChildren childrenAnswer = checkChildren(so);
-        AnswerStudent studentAnswer = checkStudent(so);
+        while(true) {
+            StudentOrder so = readStudentOrder();
 
-        sendMail(so);
+            System.out.println("Start");
+            if (so == null){
+                break;
+            }
+            System.out.println("Finish");
+
+            AnswerCityRegister cityAnswer = checkCityRegister(so);
+            if (!cityAnswer.success){
+                continue;
+            }
+
+            AnswerWedding wedAnswer = checkWedding(so);
+            AnswerChildren childrenAnswer = checkChildren(so);
+            AnswerStudent studentAnswer = checkStudent(so);
+
+            sendMail(so);
+        }
+        System.out.println("Finish2");
     }
 
     static StudentOrder readStudentOrder(){
@@ -26,8 +40,9 @@ public class StudentOrderValidator {
     }
 
     static AnswerCityRegister checkCityRegister(StudentOrder so){
-        System.out.println("City Register is runnig");
+        System.out.println("City Register is running");
         AnswerCityRegister ans = new AnswerCityRegister();
+        ans.success = false;
         return ans;
     }
 
@@ -47,7 +62,7 @@ public class StudentOrderValidator {
     }
 
     static void sendMail(StudentOrder so){
-
+        System.out.println("Почта отправлена");
     }
 
 }
