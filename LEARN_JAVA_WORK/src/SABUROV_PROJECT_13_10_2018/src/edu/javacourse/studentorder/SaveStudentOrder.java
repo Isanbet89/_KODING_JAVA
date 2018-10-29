@@ -1,6 +1,9 @@
 package SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder;
 
+import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.Address;
 import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.StudentOrder;
+import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.Adult;
+
 
 /**
  * Created by Isanbet on 13.10.2018.
@@ -22,6 +25,12 @@ public class SaveStudentOrder {
         return answer;
     }
 
-
+    static StudentOrder buildStudentOrder(){
+        StudentOrder so = new StudentOrder();
+        Adult husband = new Adult();
+        husband.setGivenName("Андрей");
+        so.setHusband(husband);
+        return so;
+    }
 }
 
