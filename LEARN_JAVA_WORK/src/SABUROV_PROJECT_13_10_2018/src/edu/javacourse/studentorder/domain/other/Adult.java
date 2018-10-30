@@ -1,4 +1,6 @@
-package SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain;
+package SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.other;
+
+import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.Person;
 
 import java.time.LocalDate;
 
@@ -13,6 +15,10 @@ public class Adult extends Person {
     private String issueDepartment;
     private String university;
     private String studentId;
+
+    public String getPersonString(){
+        return surName + " " + givenName + " " + passportNumber;
+    }
 
     public String getPassportSeria() {
         return passportSeria;

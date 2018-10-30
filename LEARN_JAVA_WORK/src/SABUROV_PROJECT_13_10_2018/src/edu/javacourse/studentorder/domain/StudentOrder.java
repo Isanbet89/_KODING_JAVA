@@ -1,5 +1,7 @@
 package SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain;
 
+import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.other.Adult;
+
 /**
  * Created by Isanbet on 14.10.2018.
  */
