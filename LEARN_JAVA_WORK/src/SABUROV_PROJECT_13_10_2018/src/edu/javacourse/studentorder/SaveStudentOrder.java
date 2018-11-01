@@ -1,7 +1,7 @@
 package SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder;
 
 import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.StudentOrder;
-import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.other.Adult;
+import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.Adult;
 
 
 /**
@@ -28,13 +28,13 @@ public class SaveStudentOrder {
     static StudentOrder buildStudentOrder(){
         StudentOrder so = new StudentOrder();
         Adult husband = new Adult();
-        husband.setGivenName("Андрей");
-        husband.setSurName("Петров");
-        husband.setPassportNumber("123456");
-        so.setHusband(husband);
-
-        String ans = husband.getPersonString();
-        System.out.println(ans);
+//        husband.setGivenName("Андрей");
+//        husband.setSurName("Петров");
+//        husband.setPassportNumber("123456");
+//        so.setHusband(husband);
+//
+//        String ans = husband.getPersonString();
+//        System.out.println(ans);
 
         return so;
     }
