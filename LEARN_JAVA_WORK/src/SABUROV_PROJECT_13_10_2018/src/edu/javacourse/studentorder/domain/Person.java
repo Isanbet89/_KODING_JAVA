@@ -6,7 +6,7 @@ import java.time.LocalDate;
  * Created by Isanbet on 30.10.2018.
  */
 
-public class Person {
+public abstract class Person {
     protected String surName;
     protected String givenName;
     private String patronymic;
