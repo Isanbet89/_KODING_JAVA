@@ -24,6 +24,7 @@ public class StudentOrderValidator {
         weddingVal = new WeddingValidator();
         childrenVal = new ChildrenValidator();
         studentVal = new StudentValidator();
+        mailSender = new MailSender();
     }
 
     public static void main(String[] args) {
@@ -32,32 +33,35 @@ public class StudentOrderValidator {
     }
 
     public void checkAll(){
+        StudentOrder[] soArray = readStudentOrders();
+//        for(int c = 0; c < soArray.length; c++){
+//            System.out.println(" ");
+//            checkOneOrder(soArray[c]);
+//        }
 
-        while(true) {
-            StudentOrder so = readStudentOrder();
-
-            if (so == null){
-                break;
-            }
-
-            AnswerCityRegister cityAnswer = checkCityRegister(so);
-            if (!cityAnswer.success){
-                //
-                //continue;
-                break;
-            }
-
-            AnswerWedding wedAnswer = checkWedding(so);
-            AnswerChildren childrenAnswer = checkChildren(so);
-            AnswerStudent studentAnswer = checkStudent(so);
-
-            sendMail(so);
+        for (StudentOrder so : soArray){
+            System.out.println(" ");
+            checkOneOrder(so);
         }
     }
 
-    public StudentOrder readStudentOrder(){
-        StudentOrder so = new StudentOrder(); //Любой текст как комментарий
-        return so;
+    public StudentOrder[] readStudentOrders(){
+        StudentOrder[] soArray = new StudentOrder[3];
+
+        for(int c = 0; c < soArray.length; c++){
+            soArray[c] = SaveStudentOrder.buildStudentOrder(c);
+        }
+
+        return soArray;
+    }
+
+    public void checkOneOrder(StudentOrder so) {
+        AnswerCityRegister cityAnswer = checkCityRegister(so);
+        AnswerWedding wedAnswer = checkWedding(so);
+        AnswerChildren childrenAnswer = checkChildren(so);
+        AnswerStudent studentAnswer = checkStudent(so);
+
+        sendMail(so);
     }
 
     public AnswerCityRegister checkCityRegister(StudentOrder so){

@@ -10,7 +10,6 @@ import SABUROV_PROJECT_13_10_2018.src.edu.javacourse.studentorder.domain.Adult;
 
 public class SaveStudentOrder {
     public static void main(String[] args) {
-        buildStudentOrder();
         /*
         StudentOrder so = new StudentOrder();
         long ans = saveStudentOrder(so);
@@ -25,16 +24,9 @@ public class SaveStudentOrder {
         return answer;
     }
 
-    static StudentOrder buildStudentOrder(){
+    static StudentOrder buildStudentOrder(long id ){
         StudentOrder so = new StudentOrder();
-        Adult husband = new Adult();
-//        husband.setGivenName("Андрей");
-//        husband.setSurName("Петров");
-//        husband.setPassportNumber("123456");
-//        so.setHusband(husband);
-//
-//        String ans = husband.getPersonString();
-//        System.out.println(ans);
+        so.setStudentOrderId(id);
 
         return so;
     }
