@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e1bb2de-94c1-4d2c-ae5e-e19f4cfae363" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/CarOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/JBCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/gameboy/videogame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/FishSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcarOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/carOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/fishMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/petMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/GameBoyAdvance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/VideoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/GetTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/convertTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter05/simpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/JAVA_FOR_HOUR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/JAVA_FOR_HOUR.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/CarCurrentDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/CarCurrentDrive_JB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/Car_JB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/GameBoyAdvance_begin/GameBoy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/GameBoyAdvance_begin/VideoGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/FishDive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/FishDiveMaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/FishSay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/PetMaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/SaveStudentOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/SaveStudentOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/StudentOrderValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/StudentOrderValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/other/Tech_Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/CarCurrentDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/CarCurrentDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/CarCurrentDrive_JB.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/CarCurrentDrive_JB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/Car_JB.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/Car_JB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GameBoyAdvance_begin/GameBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/GameBoyAdvance_begin/GameBoy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GameBoyAdvance_begin/VideoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/GameBoyAdvance_begin/VideoGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/FishDive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishDive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/FishDiveMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishDiveMaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/FishSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishSay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/PetMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/PetMaster.java" afterDir="false" />
+    </list>
+    <list id="efde5154-4612-40cf-9ee2-95c2b78de0b7" name="Revert &quot;И всё-таки удаляем&quot;" comment="Revert &quot;И всё-таки удаляем&quot;&#10;&#10;This reverts commit 119703f" />
+    <list id="d82d440e-87a0-4123-a67c-2aa9a6384a4b" name="Revert &quot;И всё-таки удаляем&quot;-2" comment="Revert &quot;И всё-таки удаляем&quot;&#10;&#10;This reverts commit 119703f" />
+    <list id="59013353-4710-4ae6-9f4d-42d0d20b82bf" name="Revert &quot;Новая папка и новый класс с методом мэйн&quot;" comment="Revert &quot;Новая папка и новый класс с методом мэйн&quot;&#10;&#10;This reverts commit 661dcd6" />
+    <list id="2e45ba66-fb93-42b8-bc88-0918d5491791" name="Revert &quot;Удаление папки с примерами&quot;" comment="Revert &quot;Удаление папки с примерами&quot;&#10;&#10;This reverts commit e316ab1" />
+    <list id="476c619f-fc3e-4bce-bd78-8c1d0bc63940" name="Revert &quot;Удаление папки с примерами&quot;-2" comment="Revert &quot;Удаление папки с примерами&quot;&#10;&#10;This reverts commit e316ab1" />
+    <list id="e7670301-b6a3-4dca-a41d-5c9717a0c57d" name="Revert &quot;Удаление папки с примерами&quot;-3" comment="Revert &quot;Удаление папки с примерами&quot;&#10;&#10;This reverts commit e316ab1" />
+    <list id="5e5a6f71-e074-42dd-b349-df7c357e3863" name="Revert &quot;Урок 10 от Антона Сабурова. часть 2 - уровни доступа и пакеты&quot;" comment="Revert &quot;Урок 10 от Антона Сабурова. часть 2 - уровни доступа и пакеты&quot;&#10;&#10;This reverts commit 65be28b" />
+    <list id="5cbc6b8c-e3c8-4899-a60e-e3725130bbeb" name="Revert &quot;Урок 10 от Антона Сабурова. часть 2 - уровни доступа и пакеты&quot;-2" comment="Revert &quot;Урок 10 от Антона Сабурова. часть 2 - уровни доступа и пакеты&quot;&#10;&#10;This reverts commit 65be28b" />
+    <list id="3b3aa279-5370-4674-b58c-c05df2daf443" name="Revert &quot;Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение методов&quot;" comment="Revert &quot;Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение методов&quot;&#10;&#10;This reverts commit 51e888b" />
+    <list id="d175a84b-1ada-4fc8-9f55-cc53b0792199" name="Урок 14 от Антона Сабурова. Что такое конструктор" comment="Урок 14 от Антона Сабурова. Что такое конструктор" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1603290677">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.107" value="1" />
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.110" value="1" />
+          <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.112" value="1" />
+          <entry key="project.open.time.116" value="2" />
+          <entry key="project.open.time.117" value="1" />
+          <entry key="project.open.time.119" value="1" />
+          <entry key="project.open.time.122" value="1" />
+          <entry key="project.open.time.125" value="1" />
+          <entry key="project.open.time.142" value="1" />
+          <entry key="project.open.time.165" value="1" />
+          <entry key="project.open.time.181" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.open.time.93" value="2" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="8460" />
+          <entry key="txt" value="1750" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8464" />
+          <entry key="PLAIN_TEXT" value="1750" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="86" />
+          <entry key="html" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="146" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="86" />
+          <entry key="HTML" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="146" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="11" />
+          <entry key="git.branch.compare" value="1" />
+          <entry key="git.branch.create.new" value="1" />
+          <entry key="git.branch.delete.remote" value="1" />
+          <entry key="git.branch.rebase" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="_KODING_JAVA" />
+    <favorites_list name="SABUROV_PROJECT">
+      <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder" module="_KODING_JAVA" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder" module="_KODING_JAVA" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/.idea" module="_KODING_JAVA" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/.idea/.name" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/SABUROV_PROJECT.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
+              <folding>
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1090#1091#0" expanded="true" />
+                <element signature="e#1423#1424#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1508#1509#0" expanded="true" />
+                <element signature="e#1556#1557#0" expanded="true" />
+                <element signature="e#1466#1467#0" expanded="true" />
+                <element signature="e#1502#1503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kjlji" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="zsr_dev" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/CheckCityRegisterValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/SendMail.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/SaveStudentOrder.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/WeddingValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/ChildrenValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/StudentValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/MailSender.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/CityRegisterValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/StudentOrderValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/AnswerCityRegister.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/AnswerCityRegister.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/validator/CityRegisterValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/validator/WeddingValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/validator/ChildrenValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/mail/MailSender.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/validator/StudentValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Address.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Child.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/other/Tech_Person.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/StudentOrder.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/other/Adult.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Adult.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Person.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/SaveStudentOrder.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/StudentOrderValidator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/gameboy/videogame.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/Pet.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/FishSay.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/Car/Car.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/Car/CarOwner.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/Car/JBCar.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/GameBoyAdvance.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/VideoGame.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/pet.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/petMaster.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/Fish.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/fishMaster.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/car.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/carOwner.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcar.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcarOwner.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/convertTemp.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/GetTemperature.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter05/calculator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter05/simpleCalculator.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/test_program/primer.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/test_program/Computer.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/Computer.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/ComputerWork.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BATYRSHINOV_TIMUR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BATYRSHINOV_TIMUR" type="462c0819:PsiDirectoryNode" />
+              <item name="BLOCK_1_OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BATYRSHINOV_TIMUR" type="462c0819:PsiDirectoryNode" />
+              <item name="BLOCK_1_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="testobject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA_FOR_KIDS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SERGEY_IRUPIN_SEA_BATTLE" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558724206025" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/SmartGit/git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JAVA_FOR_KIDS.charter03.car" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_KODING_JAVA\LEARN_JAVA_WORK\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.computerWork">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FOR_KIDS.charter04.temperatureConverter.GetTemperature" />
+      <module name="_KODING_JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_FOR_KIDS.charter04.temperatureConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBcarOwner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FOR_KIDS.charter03.car.JBcarOwner" />
+      <module name="_KODING_JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_FOR_KIDS.charter03.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="carOwner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FOR_KIDS.charter03.car.carOwner" />
+      <module name="_KODING_JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_FOR_KIDS.charter03.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="computerWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BATYRSHINOV_TIMUR.BLOCK_1_OOP.testobject.computerWork" />
+      <module name="_KODING_JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BATYRSHINOV_TIMUR.BLOCK_1_OOP.testobject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fishMaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_FOR_KIDS.charter03.pet.fishMaster" />
+      <module name="_KODING_JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA_FOR_KIDS.charter03.pet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.fishMaster" />
+      <item itemvalue="Application.carOwner" />
+      <item itemvalue="Application.JBcarOwner" />
+      <item itemvalue="Application.GetTemperature" />
+      <item itemvalue="Application.computerWork" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.computerWork" />
+        <item itemvalue="Application.GetTemperature" />
+        <item itemvalue="Application.JBcarOwner" />
+        <item itemvalue="Application.carOwner" />
+        <item itemvalue="Application.fishMaster" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e1bb2de-94c1-4d2c-ae5e-e19f4cfae363" name="Default Changelist" comment="" />
+      <changelist id="d175a84b-1ada-4fc8-9f55-cc53b0792199" name="Урок 14 от Антона Сабурова. Что такое конструктор" comment="" />
+      <created>1539436169496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539436169496</updated>
+    </task>
+    <task id="LOCAL-00001" summary="создал доп. класс">
+      <created>1539439788501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539439788501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="создал доп. класс">
+      <created>1539440163905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539440163905</updated>
+    </task>
+    <task id="LOCAL-00003" summary="создал третий и четвёртый класс">
+      <created>1539440359120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539440359120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="какая-то системная штука">
+      <created>1539440524104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539440524104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавил psvm в главный класс">
+      <created>1539440640144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539440640144</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Добавил psvm в главный класс (а не в другой, как ранее)">
+      <created>1539441194370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539441194370</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Удаление папки с примерами">
+      <created>1539441508316</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539441508316</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Новая папка и новый класс с методом мэйн">
+      <created>1539441586248</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539441586248</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Новая папка и новый класс с методом мэйн">
+      <created>1539442218994</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539442218994</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;Удаление папки с примерами&quot;&#10;&#10;This reverts commit e316ab1">
+      <created>1539442516968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539442516968</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Пара новых классов">
+      <created>1539442607013</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539442607013</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Новая функция в класс_q">
+      <created>1539442844359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1539442844359</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Новая функция в класс_q - более крутая">
+      <created>1539442930821</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1539442930821</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Вызов более крутой фичи в классе q">
+      <created>1539442979660</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1539442979660</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Удаляем старую фичу из кода. Мы сказочные персонажи, поэтому даже не коммитим, а удаляем - у нас же есть гитхаб">
+      <created>1539443030689</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1539443030689</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Проверка более крутой фичи на стабильность">
+      <created>1539443081177</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1539443081177</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Новая суперфича требует доработки, поэтому мы с гитхаба добыли старую версию фичи&#10;&#10;This reverts commit 6e8e51a">
+      <created>1539443454160</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1539443454160</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Удаляем две учебные папки">
+      <created>1539444412276</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1539444412276</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Возвращение двух папок">
+      <created>1539444809204</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1539444809204</updated>
+    </task>
+    <task id="LOCAL-00020" summary="И всё-таки удаляем">
+      <created>1539444904609</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1539444904609</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Убрали две папки, src оставляем на месте">
+      <created>1539445484056</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1539445484056</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Всякие непонятные системные действия">
+      <created>1539450260938</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1539450260939</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Всякие непонятные системные действия2">
+      <created>1539450423449</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1539450423449</updated>
+    </task>
+    <task id="LOCAL-00024" summary="https://www.youtube.com/watch?v=cwwHxEO-ruY&amp;index=4&amp;list=PLyxk-1FCKqockmP-fXZmHQ7UlYP3qvZRa">
+      <created>1539450502887</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1539450502887</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Урок 5 от Антона Сабурова. Работаем с классами, пишем разные операции">
+      <created>1539456070849</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1539456070849</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Урок 6 от Антона Сабурова. Создаём структуру данных, учимся к ней обращаться">
+      <created>1539458408953</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1539458408954</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Урок 7 от Антона Сабурова. Закрепляем информацию, создаем ввод-вывод &#10;данных">
+      <created>1539498996128</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1539498996128</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Урок 8 от Антона Сабурова. Управляющие конструкции">
+      <created>1539504464568</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1539504464568</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Урок 9 от Антона Сабурова. часть 1 - классы и методы (много примеров)">
+      <created>1539507624050</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1539507624050</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Урок 9 от Антона Сабурова. часть 2 - убираем crv2 из StudentOrderValidator">
+      <created>1539507702856</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1539507702856</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Урок 10 от Антона Сабурова. часть 1 - разбираем валидаторы">
+      <created>1539510290499</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1539510290499</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Урок 10 от Антона Сабурова. часть 2 - уровни доступа и пакеты">
+      <created>1539511595892</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1539511595892</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Урок 10 от Антона Сабурова. часть 2 - уровни доступа и пакеты">
+      <created>1539511628149</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1539511628149</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Урок 11 от Антона Сабурова. Геттеры и сеттеры">
+      <created>1539716088835</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1539716088836</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Урок 12 от Антона Сабурова, часть 1. Добавление класса Person, расширений для него - Adult и Child, а также класса Address для адреса (не расширение)">
+      <created>1540842895285</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1540842895285</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Урок 12 от Антона Сабурова, часть 2. StudentOrder корректировка. SaveStudentOrder убираем старые ссылки на StudentOrder">
+      <created>1540843261232</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1540843261232</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Урок 12 от Антона Сабурова, часть 3. SaveStudentOrder корректировка. Обращаемся к классам Adult">
+      <created>1540843892894</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1540843892894</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение &#10;методов">
+      <created>1540920841476</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1540920841476</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение &#10;методов">
+      <created>1540926389470</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1540926389470</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение &#10;методов">
+      <created>1540927732830</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1540927732830</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Revert &quot;Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение методов&quot;&#10;&#10;This reverts commit 51e888b">
+      <created>1540927873802</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1540927873802</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Revert &quot;Revert &quot;Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение методов&quot;&quot;&#10;&#10;This reverts commit 41f730a">
+      <created>1540927948266</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1540927948266</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Создание технической персоны">
+      <created>1540928733193</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1540928733193</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Добавление psvm в техническую персону">
+      <created>1540929157818</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1540929157818</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Добавление countSum в техническую персону">
+      <created>1540930376890</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1540930376890</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Урок 14 от Антона Сабурова. Что такое конструктор">
+      <created>1541101731518</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1541101731518</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Урок 14 от Антона Сабурова. Что такое конструктор">
+      <created>1541103083980</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1541103083980</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Урок 15 от Антона Сабурова. Переводим Person в абстракцию">
+      <created>1541518489801</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1541518489801</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Урок 16 от Антона Сабурова. Код с гита (прослушано)&#10;Урок 17 от Антона Сабурова. Массивы">
+      <created>1541524314579</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1541524314579</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49069768" visible="true" weight="0.2855987" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5093023" side_tool="true" visible="true" weight="0.2855987" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5093023" side_tool="true" weight="0.2855987" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29738563" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50161815" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49838188" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="_KODING_JAVA/zsr" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="_KODING_JAVA/zsr_dev" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="zsr" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="RELOAD_CONTEXT" value="false" />
+    <MESSAGE value="Убрали две папки, src оставляем на месте" />
+    <MESSAGE value="Всякие непонятные системные действия" />
+    <MESSAGE value="Всякие непонятные системные действия2" />
+    <MESSAGE value="https://www.youtube.com/watch?v=cwwHxEO-ruY&amp;index=4&amp;list=PLyxk-1FCKqockmP-fXZmHQ7UlYP3qvZRa" />
+    <MESSAGE value="Урок 5 от Антона Сабурова. Работаем с классами, пишем разные операции" />
+    <MESSAGE value="Урок 6 от Антона Сабурова. Создаём структуру данных, учимся к ней обращаться" />
+    <MESSAGE value="Урок 7 от Антона Сабурова. Закрепляем информацию, создаем ввод-вывод &#10;данных" />
+    <MESSAGE value="Урок 8 от Антона Сабурова. Управляющие конструкции" />
+    <MESSAGE value="Урок 9 от Антона Сабурова. часть 1 - классы и методы (много примеров)" />
+    <MESSAGE value="Урок 9 от Антона Сабурова. часть 2 - убираем crv2 из StudentOrderValidator" />
+    <MESSAGE value="Урок 10 от Антона Сабурова. часть 1 - разбираем валидаторы" />
+    <MESSAGE value="Урок 10 от Антона Сабурова. часть 2 - уровни доступа и пакеты" />
+    <MESSAGE value="Урок 11 от Антона Сабурова. Геттеры и сеттеры" />
+    <MESSAGE value="Урок 12 от Антона Сабурова, часть 1. Добавление класса Person, расширений для него - Adult и Child, а также класса Address для адреса (не расширение)" />
+    <MESSAGE value="Урок 12 от Антона Сабурова, часть 2. StudentOrder корректировка. SaveStudentOrder убираем старые ссылки на StudentOrder" />
+    <MESSAGE value="Урок 12 от Антона Сабурова, часть 3. SaveStudentOrder корректировка. Обращаемся к классам Adult" />
+    <MESSAGE value="Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение &#10;методов" />
+    <MESSAGE value="Revert &quot;Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение методов&quot;&#10;&#10;This reverts commit 51e888b" />
+    <MESSAGE value="Revert &quot;Revert &quot;Урок 13 от Антона Сабурова. Protected вместо Get и Set. Переопределение методов&quot;&quot;&#10;&#10;This reverts commit 41f730a" />
+    <MESSAGE value="Создание технической персоны" />
+    <MESSAGE value="Добавление psvm в техническую персону" />
+    <MESSAGE value="Добавление countSum в техническую персону" />
+    <MESSAGE value="Урок 14 от Антона Сабурова. Что такое конструктор" />
+    <MESSAGE value="Урок 15 от Антона Сабурова. Переводим Person в абстракцию" />
+    <MESSAGE value="Урок 16 от Антона Сабурова. Код с гита (прослушано)&#10;Урок 17 от Антона Сабурова. Массивы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 16 от Антона Сабурова. Код с гита (прослушано)&#10;Урок 17 от Антона Сабурова. Массивы" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/validator/CityRegisterValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/SaveStudentOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/StudentOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/AnswerWedding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/validator/WeddingValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/mail/MailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/StudentOrderValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/JAVA_FOR_HOUR.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/Temperature/ConverterRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/Temperature/TemperatureConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/User_Interface/ProtoCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/User_Interface/SecondCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishDive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishDiveMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/CarCurrentDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/CarCurrentDrive_JB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/Car_JB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/DogBarkTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/First_class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/DogBark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SERGEY_IRUPIN_SEA_BATTLE/DOCUMENTATION.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/FishSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/CarOwner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/JBCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/gameboy/videogame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/GameBoyAdvance_begin/VideoGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/VideoGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/GameBoyAdvance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/petMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/fishMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcarOwner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/carOwner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/GetTemperature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/convertTemp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter05/simpleCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>_KODING_JAVA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
