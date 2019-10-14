@@ -6,14 +6,27 @@ package BATYRSHINOV_TIMUR.BLOCK_1_OOP.testobject;
 
 public class computer {
 
-    private String name;
+    protected String name;
 
-    private int ram;
+    protected int ram;
 
-    private int hdd;
+    protected int hdd;
 
-    private double weight;
+    protected double weight;
 
+
+    //Создаём конструктор для передачи имени, ОЗУ, hdd и веса
+    public computer(){
+        System.out.println("Компьютер: Мой компьютер");
+    }
+
+
+    public computer(String name, int ram, int hdd, double weight) {
+        this.name = name;
+        this.ram = ram;
+        this.hdd = hdd;
+        this.weight = weight;
+    }
 
     public String getName() {
         return name;
@@ -78,7 +91,11 @@ public class computer {
         printMsg("Идёт чтение диска");
     }
 
-    private void printMsg(String str){
+    public void scanDisk(){
+        printMsg("Идёт сканирование диска");
+    }
+
+    protected void printMsg(String str){
         System.out.println(str);
     }
 

@@ -2,58 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e1bb2de-94c1-4d2c-ae5e-e19f4cfae363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/CarOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/Car/JBCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/gameboy/videogame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/FishSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/_14052019/pet/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/JBcarOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/car/carOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/fishMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/pet/petMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/GameBoyAdvance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter03/videogame/VideoGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/GetTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter04/temperatureConverter/convertTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/charter05/simpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GOSHA_DUDAR/JAVA_FOR_HOUR/JAVA_FOR_HOUR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GOSHA_DUDAR/JAVA_FOR_HOUR/JAVA_FOR_HOUR.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/CarCurrentDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/CarCurrentDrive_JB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Car/Car_JB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/GameBoyAdvance_begin/GameBoy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/GameBoyAdvance_begin/VideoGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/FishDive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/FishDiveMaster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/FishSay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/Pet/PetMaster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/SaveStudentOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/SaveStudentOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/StudentOrderValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/StudentOrderValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/other/Tech_Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/CarCurrentDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/CarCurrentDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/CarCurrentDrive_JB.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/CarCurrentDrive_JB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Car/Car_JB.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Car/Car_JB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GameBoyAdvance_begin/GameBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/GameBoyAdvance_begin/GameBoy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/GameBoyAdvance_begin/VideoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/GameBoyAdvance_begin/VideoGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/FishDive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishDive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/FishDiveMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishDiveMaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/FishSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/FishSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/Pet/PetMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/JAVA_FOR_KIDS/_old/Pet/PetMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/OREALLY_JAVA_2_EDITION/charter01/proba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/out/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java" afterDir="false" />
     </list>
     <list id="efde5154-4612-40cf-9ee2-95c2b78de0b7" name="Revert &quot;И всё-таки удаляем&quot;" comment="Revert &quot;И всё-таки удаляем&quot;&#10;&#10;This reverts commit 119703f" />
     <list id="d82d440e-87a0-4123-a67c-2aa9a6384a4b" name="Revert &quot;И всё-таки удаляем&quot;-2" comment="Revert &quot;И всё-таки удаляем&quot;&#10;&#10;This reverts commit 119703f" />
@@ -75,7 +30,9 @@
     <session id="-1603290677">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.104" value="1" />
           <entry key="project.open.time.107" value="1" />
           <entry key="project.open.time.109" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -87,27 +44,30 @@
           <entry key="project.open.time.119" value="1" />
           <entry key="project.open.time.122" value="1" />
           <entry key="project.open.time.125" value="1" />
+          <entry key="project.open.time.131" value="1" />
           <entry key="project.open.time.142" value="1" />
           <entry key="project.open.time.165" value="1" />
           <entry key="project.open.time.181" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.77" value="1" />
           <entry key="project.open.time.82" value="1" />
+          <entry key="project.open.time.92" value="1" />
           <entry key="project.open.time.93" value="2" />
-          <entry key="project.open.time.99" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.open.time.99" value="2" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="8460" />
+          <entry key="java" value="9215" />
           <entry key="txt" value="1750" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8464" />
+          <entry key="JAVA" value="9219" />
           <entry key="PLAIN_TEXT" value="1750" />
         </counts>
       </usages-collector>
@@ -116,7 +76,7 @@
           <entry key="class" value="86" />
           <entry key="html" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="146" />
+          <entry key="java" value="149" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
@@ -125,7 +85,7 @@
           <entry key="CLASS" value="86" />
           <entry key="HTML" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="146" />
+          <entry key="JAVA" value="149" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
@@ -157,44 +117,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
-              <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#1007#1008#0" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-                <element signature="e#1423#1424#0" expanded="true" />
-                <element signature="e#1449#1450#0" expanded="true" />
-                <element signature="e#1508#1509#0" expanded="true" />
-                <element signature="e#1556#1557#0" expanded="true" />
-                <element signature="e#1466#1467#0" expanded="true" />
-                <element signature="e#1502#1503#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java">
+        <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/OREALLY_JAVA_2_EDITION/charter01/proba.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -223,11 +150,12 @@
     </option>
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/CheckCityRegisterValidator.java" />
-        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/SendMail.java" />
         <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/SaveStudentOrder.java" />
         <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/WeddingValidator.java" />
         <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/ChildrenValidator.java" />
@@ -275,16 +203,16 @@
         <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/test_program/Computer.java" />
         <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/Computer.java" />
         <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/ComputerWork.java" />
-        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java" />
         <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/notebook.java" />
+        <option value="$PROJECT_DIR$/LEARN_JAVA_WORK/src/OREALLY_JAVA_2_EDITION/charter01/proba.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="width" value="1280" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -297,7 +225,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -328,24 +255,14 @@
               <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BATYRSHINOV_TIMUR" type="462c0819:PsiDirectoryNode" />
-              <item name="BLOCK_1_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA_DUMMIES" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
               <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BATYRSHINOV_TIMUR" type="462c0819:PsiDirectoryNode" />
-              <item name="BLOCK_1_OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="testobject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_KODING_JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="LEARN_JAVA_WORK" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JAVA_FOR_KIDS" type="462c0819:PsiDirectoryNode" />
+              <item name="OREALLY_JAVA_2_EDITION" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_KODING_JAVA" type="b2602c69:ProjectViewProjectNode" />
@@ -358,10 +275,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558724206025" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558990275740" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/SmartGit/git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -369,6 +287,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_KODING_JAVA\LEARN_JAVA_WORK\src\OREALLY_JAVA_2_EDITION" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JAVA_FOR_KIDS.charter03.car" />
     </key>
@@ -873,11 +794,41 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49069768" visible="true" weight="0.2855987" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.5093023" side_tool="true" visible="true" weight="0.2855987" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48604652" visible="true" weight="0.31993437" />
+      <window_info id="Structure" order="1" sideWeight="0.5139535" side_tool="true" weight="0.3001618" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5093023" side_tool="true" weight="0.2855987" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29738563" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50161815" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49838188" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.33724833" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48604652" visible="true" weight="0.3001618" />
+      <window_info id="Structure" order="1" sideWeight="0.5139535" side_tool="true" visible="true" weight="0.3001618" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -885,7 +836,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5093023" side_tool="true" weight="0.2855987" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29738563" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29738563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -902,7 +853,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -1009,20 +960,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Урок 16 от Антона Сабурова. Код с гита (прослушано)&#10;Урок 17 от Антона Сабурова. Массивы" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/validator/CityRegisterValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/SABUROV_PROJECT_13_10_2018/src/edu/javacourse/studentorder/SaveStudentOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1333,47 +1270,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1423#1424#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1508#1509#0" expanded="true" />
-            <element signature="e#1556#1557#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1502#1503#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computerWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="55">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/BATYRSHINOV_TIMUR/BLOCK_1_OOP/testobject/notebook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LEARN_JAVA_WORK/src/OREALLY_JAVA_2_EDITION/charter01/proba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

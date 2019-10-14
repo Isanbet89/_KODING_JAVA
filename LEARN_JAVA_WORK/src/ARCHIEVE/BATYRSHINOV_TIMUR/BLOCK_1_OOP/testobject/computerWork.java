@@ -8,18 +8,20 @@ public class computerWork {
 
     public static void main(String[] args) {
 
-        computer comp = new computer();
-
-        comp.setName("Вася");
-        comp.setRam(-300);
-        comp.setHdd(300);
-        comp.setWeight(100.5);
+        //инициализируем конструктор
+        computer comp = new computer("Вася",2,350, 100.5);
 
         comp.on();
         comp.load();
         comp.off();
         comp.reboot();
         comp.readDisk();
+        comp.scanDisk();
+
+        notebook note = new notebook("Петя",4,450, 101.5);
+        note.on();
+        note.load();
+        note.off();
 
     }
 
